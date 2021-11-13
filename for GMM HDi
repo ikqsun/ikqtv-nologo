@@ -1,0 +1,552 @@
+#EXTM3U
+#EXTINF:-1 " group-title="ดิจิตอล", 3HD
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", 5HD
+http://live2.dootvde.com/live/50002_ch5.stream.smil/playist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", 7HD
+http://live2.dootvde.com/live/50003_ch7.stream.smil/playist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", NBT HD
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", THAI TPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", ONE HD
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", THAIRATH TV
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", AMARIN TV
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", PPTV
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", WORKPOINT
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", CH8
+https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", MONO 29
+https://freelive2.inwstream.com:1936/freelive-edge/mono29/chunks.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", VOICE TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", VOICE TVสำรอง
+https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th
+#EXTINF:-1 " group-title="ดิจิตอล", GMM25
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", NATION TV
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", TNN24
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", TRUE4U
+https://smart-tv.livedoomovie.com:4431/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", JKN 18
+http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", TP TV
+https://freelive.inwstream.com:1936/freelive-edge/tptv/chunks.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", NEWS1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", TOP NEWS
+https://live.topnews.co.th/hls/topnews_a_1080.m3u8
+#EXTINF:-1 " group-title="ดิจิตอล", TPTV
+https://freelive.inwstream.com:1936/freelive-edge/tptv/chunks.m3u8
+
+
+#EXTINF:-1 "กิฬาไทย", TRUESP HD1
+https://we-play.live/watching/tv/true-sports-hd
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP HD2
+https://we-play.live/watching/tv/true-sports-hd-2
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP HD3
+https://we-play.live/watching/tv/true-sports-h-3|Referer=https://we-play.live
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP HD4
+https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP HD1 สำรอง
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP HD2 สำรอง
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP HD3 สำรอง
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP HD4 สำรวจ
+https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP2
+https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8  
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP5
+https://we-play.live/watching/tv/true-sports-5|Referer=https://we-play.live
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP6
+https://smart-tv.livedoomovie.com:4431/02_sport6_480p/chunklist.m3u8 
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP7
+https://we-play.live/watching/tv/true-sports-7|Referer=https://we-play.live
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP2 สำรอง
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP5 สำรอง
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP6 สำรอง
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 " group-title="กิฬาไทย", TRUESP7 สำรอง
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬาไทย" , TRUE SPOTV
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+#EXTINF:-1 group-title="กิฬาไทย" , TRUE SPOTV2
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+#EXTINF:-1 " group-title="กิฬาไทย", TRUE TENNIS
+https://we-play.live/watching/tv/true-tennis|Referer=https://we-play.live
+#EXTINF:-1 " group-title="กิฬาไทย", TRUE GOLF
+https://we-play.live/watching/tv/golf-channel|Referer=https://we-play.live
+#EXTINF:-1 " group-title="กิฬาไทย", TRUE GOLF2
+https://we-play.live/watching/tv/golf-channel-thailand-hd2|Referer=https://we-play.live
+#EXTINF:-1 " group-title="กิฬาไทย", TRUE NBA
+https://we-play.live/watching/tv/nba-tv|Referer=https://we-play.live
+#EXTINF:-1 " group-title="กิฬาไทย", TRUE NFL
+https://we-play.live/watching/tv/nfl-network|Referer=https://we-play.live
+#EXTINF:-1 group-title="กิฬาไทย" , EPL1
+https://we-play.live/watching/tv/true-premier-football-hd-1|Referer=https://we-play.live
+#EXTINF:-1 group-title="กิฬาไทย" , EPL2
+https://we-play.live/watching/tv/true-premier-football-hd-2|Referer=https://we-play.live
+#EXTINF:-1 group-title="กิฬาไทย" , EPL3
+https://we-play.live/watching/tv/true-premier-football-hd-3|Referer=https://we-play.live
+#EXTINF:-1 " group-title="กิฬาไทย", EPL4
+https://we-play.live/watching/tv/true-premier-football-hd-4|Referer=https://we-play.live
+#EXTINF:-1 " group-title="กิฬาไทย", EPL5
+https://we-play.live/watching/tv/true-premier-football-hd-5|Referer=https://we-play.live
+#EXTINF:-1 group-title="กิฬาไทย" , EPL1 สำรอง
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬาไทย" , EPL2 สำรอง
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬาไทย" , EPL3 สำรอง
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1  group-title="กิฬาไทย", EPL4 สำรอง
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1  group-title="กิฬาไทย", EPL5 สำรอง
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1  group-title="กิฬาไทย", BEIN SPORTS1
+https://we-play.live/watching/tv/bein-sports-1|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬาไทย", BEIN SPORTS2
+https://we-play.live/watching/tv/bein-sports-2|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬาไทย", BEIN SPORTS1 สำรอง
+https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
+#EXTINF:-1  group-title="กิฬาไทย", BEIN SPORTS2 สำรอง
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
+#EXTINF:-1 group-title="กิฬาไทย", AIS PLAY BEIN SPORTS1 
+https://freeball89.com/4k/4/chunks.m3u8|Referer=https://dooballpremier.com
+#EXTINF:-1 group-title="กิฬาไทย", Esports Thai Leagues TV 
+https://tv.trueid.net/live/ESPORTSTHAILEAGUESTV|Referer=https://tv.trueid.net 
+#EXTINF:-1 group-title="กิฬาไทย", TSPORTS
+https://ball8k.com/channel?ch=tsports|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬาไทย", BAYGONHERO1
+https://ball8k.com/channel?ch=baygonhero1|Referer=https://ball8k.com  
+#EXTINF:-1 group-title="กิฬาไทย", BAYGONHERO2
+https://ball8k.com/channel?ch=baygonhero2|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬาไทย", BAYGONHERO3
+https://ball8k.com/channel?ch=baygonhero3|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬาไทย", BAYGONHERO4
+https://ball8k.com/channel?ch=baygonhero4|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬาไทย", BAYGONHERO5
+https://ball8k.com/channel?ch=baygonhero5|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬาไทย", BAYGONHERO6
+https://ball8k.com/channel?ch=baygonhero6|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬาไทย", BAYGONHERO7
+https://ball8k.com/channel?ch=baygonhero7|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬาไทย", BAYGONHERO8
+https://ball8k.com/channel?ch=baygonhero8|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬาไทย", BAYGONHERO9
+https://ball8k.com/channel?ch=baygonhero9|Referer=https://ball8k.com
+
+
+#EXTINF:-1  group-title="กิฬานอก", SKYNET SPORTSHD
+https://we-play.live/watching/tv/skynet-sports-hd|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", SKYNET SPORTS1
+https://we-play.live/watching/tv/skynet-sports-1|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", SKYNET SPORTS2
+https://we-play.live/watching/tv/skynet-sports-2|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", SKYNET SPORTS3
+https://we-play.live/watching/tv/skynet-sports-3|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", SKYNET SPORTS4
+https://we-play.live/watching/tv/skynet-sports-4|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", SKYNET SPORTS5
+https://we-play.live/watching/tv/skynet-sports-5|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", SKYNET SPORTS6
+https://we-play.live/watching/tv/skynet-sports-6|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", ASTRO SPORT1
+https://we-play.live/watching/tv/astro-supersport-1|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", ASTRO SPORT2
+https://we-play.live/watching/tv/astro-supersport-2|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", ASTRO SPORT3
+https://we-play.live/watching/tv/astro-supersport-3|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", ASTRO SPORT4
+https://we-play.live/watching/tv/astro-supersport-4|Referer=https://we-play.live
+#EXTINF:-1  group-title="กิฬานอก", ASTRO ARENA
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1  group-title="กิฬานอก", MUTV
+https://ball8k.com/channel?ch=mutv|Referer=https://ball8k.com
+#EXTINF:-1  group-title="กิฬานอก", LFCTV
+https://ball8k.com/channel?ch=lfctv|Referer=https://ball8k.com
+#EXTINF:-1  group-title="กิฬานอก", CHELSEATV
+https://ball8k.com/channel?ch=chelseatv|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬานอก", ASTRO SPORT1 สำรอง
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54206.m3u8
+#EXTINF:-1 group-title="กิฬานอก", ASTRO SPORT2 สำรอง
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54207.m3u8
+#EXTINF:-1 group-title="กิฬานอก", ASTRO SPORT3 สำรอง
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/542088.m3u8
+#EXTINF:-1 group-title="กิฬานอก", ASTRO SPORT4 สำรอง
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54209.m3u8
+#EXTINF:-1 group-title="กิฬานอก", SONY TEN1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8 
+#EXTINF:-1 group-title="กิฬานอก", SONY TEN2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 group-title="กิฬานอก", SONY TEN3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8 
+#EXTINF:-1 group-title="กิฬานอก", SONY SIX  
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:-1 group-title="กิฬานอก", BEIN SP1 PREMIUM  
+http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8
+#EXTINF:-1 group-title="กิฬานอก", BEIN SP2 PREMIUM
+http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8  
+#EXTINF:-1 group-title="กิฬานอก", BEIN SP3 PREMIUM
+http://88.barouhn.xyz.global.prod.fastly.net/live/6151278887/index.m3u8 
+#EXTINF:-1 group-title="กิฬานอก", FPT PLAY1
+http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FPT PLAY2
+http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FPT PLAY3
+http://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FPT PLAY4
+http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FPT PLAY5
+http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FPT PLAY6
+http://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FPT PLAY7
+http://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FPT PLAY8
+http://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FPT PLAY9
+http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FPT PLAY10
+http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กิฬานอก" , FIGHT BOX
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 group-title="กิฬานอก", ELEVEN SPORTS1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8 
+#EXTINF:-1 group-title="กิฬานอก", ELEVEN SPORTS2
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_2_303/1/1/index.m3u8 
+#EXTINF:-1 group-title="กิฬานอก", SETANTA LIVE
+https://95-213-224-181.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 group-title="กิฬานอก", SETANTA SPORTS1
+https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 group-title="กิฬานอก", SETANTA SPORTS2 
+https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8 
+#EXTINF:-1 group-title="กิฬานอก", EURO SPORT ASIAS  
+https://we-play.live/watching/tv/eurosport-asia|Referer=https://we-play.live
+#EXTINF:-1 group-title="กิฬานอก", SKYSPORT MAINEVENT
+https://www.warpfootball.games/live/?ch=skysportmainevent|Referer=https://www.warpfootball.games/live
+#EXTINF:-1 group-title="กิฬานอก", SKYSPORT CLICKET
+https://www.warpfootball.games/live/?ch=skysportclicket|Referer=https://www.warpfootball.games/live 
+#EXTINF:-1 group-title="กิฬานอก", SKYSPORT ACTION
+https://www.warpfootball.games/live/?ch=skysportaction|Referer=https://www.warpfootball.games/live 
+#EXTINF:-1 group-title="กิฬานอก", SKYSPORT GOLF
+https://www.warpfootball.games/live/?ch=skysportgolf|Referer=https://www.warpfootball.games/live 
+#EXTINF:-1 group-title="กิฬานอก", SKYSPORT PSL
+https://www.warpfootball.games/live/?ch=skysportpremiere|Referer=https://www.warpfootball.games/live 
+#EXTINF:-1 group-title="กิฬานอก", SKYSPORT FOOTBALL
+https://www.warpfootball.games/live/?ch=skysportfootball|Referer=https://www.warpfootball.games/live 
+#EXTINF:-1 group-title="กิฬานอก", SKYSPORT MIX
+https://www.warpfootball.games/live/?ch=skysportmix|Referer=https://www.warpfootball.games/live 
+#EXTINF:-1 group-title="กิฬานอก", SKYSPORT F1
+https://www.doofree88.com/live/sky-sports-f1|Referer=https://www.doofree88.com
+#EXTINF:-1 group-title="กิฬานอก", EUROSPORT1
+https://www.doofree88.com/live/eurosport|Referer=https://www.doofree88.com
+#EXTINF:-1 group-title="กิฬานอก", EUROSPORT2  
+https://www.doofree88.com/live/eurosport-2|Referer=https://www.doofree88.com
+#EXTINF:-1 group-title="กิฬานอก", FITE
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/playlist.m3u8 
+#EXTINF:-1 group-title="กิฬานอก", KOK
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8 
+#EXTINF:-1 group-title="กิฬานอก", ROH
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FIGHT PULS
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
+#EXTINF:-1 group-title="กิฬานอก", FOX SPORTS1
+http://38.131.11.9:1080/play/a02k
+#EXTINF:-1 group-title="กิฬานอก", FOX SPORTS2
+http://38.131.11.9:1080/play/a033
+#EXTINF:-1 group-title="กิฬานอก", FOX SPORTS3
+http://38.131.11.9:1080/play/a034
+#EXTINF:-1 group-title="กิฬานอก", FOX SPORTS PREMIUM
+http://38.131.11.9:1080/play/a00c
+#EXTINF:-1 group-title="กิฬานอก", ASXTV FIGHTS
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="กิฬานอก", ESPN HD
+https://we-play.live/watching/tv/espn-netherland
+#EXTINF:-1 group-title="กิฬานอก", ESPN2
+https://we-play.live/watching/tv/espn-2-netherland
+#EXTINF:-1 group-title="กิฬานอก", ESPN3
+https://we-play.live/watching/tv/espn-3-netherland
+#EXTINF:-1 group-title="กิฬานอก", ESPN4
+https://we-play.live/watching/tv/espn-3-netherland
+#EXTINF:-1 group-title="กิฬานอก", SPORTKLUB1
+https://ball8k.com/channel?ch=sportklub1slovenia|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬานอก", SPORTKLUB2
+https://ball8k.com/channel?ch=sportklub2slovenia|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬานอก", SPORTKLUB3
+https://ball8k.com/channel?ch=sportklub3slovenia|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬานอก", SPORTKLUB4
+https://ball8k.com/channel?ch=sportklub4slovenia|Referer=https://ball8k.com
+#EXTINF:-1 group-title="กิฬานอก", C MORE FOOTBALL
+https://ball8k.com/channel?ch=cmorefootball|Referer=https://ball8k.com  
+#EXTINF:-1 group-title="กิฬานอก", C MORE LIVEHD
+https://ball8k.com/channel?ch=cmorelivehd|Referer=https://ball8k.com
+
+#EXTINF:-1 group-title="Sports" , FIGHT SPORTS
+https://cdn6.goprimetime.info/feed/202105171329/LC36/index.m3u8
+#EXTINF:-1 group-title="Sports" , WWE
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:-1 group-title="Sports" , MOTRO VISION
+https://we-play.live/watching/tv/motor-vision|Referer=https://we-play.live
+#EXTINF:-1 group-title="Sports" , BT SPORTS1
+https://we-play.live/watching/tv/bt-sport-1-hd|Referer=https://we-play.live
+#EXTINF:-1 group-title="Sports" , BT SPORTS2
+https://we-play.live/watching/tv/bt-sport-2-hd|Referer=https://we-play.live
+#EXTINF:-1 group-title="Sports" , BT SPORTS3
+https://we-play.live/watching/tv/bt-sport-3-hd|Referer=https://we-play.live
+#EXTINF:-1 group-title="Sports" , SPORT TV1
+https://ball8k.com/channel?ch=sporttv1|Referer=https://ball8k.com
+#EXTINF:-1 group-title="Sports" , SPORT TV2
+https://ball8k.com/channel?ch=sporttv2|Referer=https://ball8k.com
+#EXTINF:-1 group-title="Sports" , SPORT TV3
+https://ball8k.com/channel?ch=sporttv3|Referer=https://ball8k.com
+#EXTINF:-1 group-title="Sports" , SPORT TV4
+https://ball8k.com/channel?ch=sporttv4|Referer=https://ball8k.com
+#EXTINF:-1 group-title="Sports" , SPORT TV5
+https://www.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8 
+#EXTINF:-1 group-title="Sports" ,super sports grandstand
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28897
+#EXTINF:-1 group-title="Sports" ,super sports psl
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28894
+#EXTINF:-1 group-title="Sports" ,super sports epl
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28896
+#EXTINF:-1 group-title="Sports" ,super sports laliga
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28895
+#EXTINF:-1 group-title="Sports" ,super sports varaity1 
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28899
+#EXTINF:-1 group-title="Sports" ,super sports variety2
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28898
+#EXTINF:-1 group-title="Sports" ,super sports variety3
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28903
+#EXTINF:-1 group-title="Sports" ,super sports variety4 
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28902
+#EXTINF:-1 group-title="Sports" ,super sports action
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28900
+#EXTINF:-1 group-title="Sports" ,super sports rugby
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28904
+#EXTINF:-1 group-title="Sports" ,super sports cricket
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28905
+#EXTINF:-1 group-title="Sports" ,SuperSport Football 
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28901
+#EXTINF:-1 group-title="Sports" ,SuperSport Blitz 
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28906
+#EXTINF:-1 group-title="Sports" ,SuperSport Maximo 1 
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28907
+#EXTINF:-1 group-title="Sports" ,SuperSport Golf 
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/54965
+#EXTINF:-1 group-title="Sports" ,SuperSport Tennis 
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/54966
+#EXTINF:-1 group-title="Sports" ,SuperSport Motorsport 
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/54967
+
+
+#EXTINF:-1  group-title="Entertainment", CCM
+https://we-play.live/watching/tv/ccm|Referer=https://we-play.live
+#EXTINF:-1  group-title="Entertainment", ROCK ENTERTAINMENT
+https://we-play.live/watching/tv/rock-entertainment|Referer=https://we-play.live
+#EXTINF:-1  group-title="Entertainment", ROCK EXTREME
+https://we-play.live/watching/tv/rock-extreme|Referer=https://we-play.live
+#EXTINF:-1  group-title="Entertainment", AXN
+https://we-play.live/watching/tv/axn-hd|Referer=https://we-play.live
+#EXTINF:-1  group-title="Entertainment", WAKU WAKU JAPAN
+https://we-play.live/watching/tv/waku-waku-japan|Referer=https://we-play.live
+#EXTINF:-1  group-title="Entertainment", LIFETIME
+https://we-play.live/watching/tv/lifetime|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", WARNER TV
+https://we-play.live/watching/tv/warner-tv|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", PARAMOUNT
+https://we-play.live/watching/tv/paramount-channel|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", HITS MOVIES
+https://we-play.live/watching/tv/hits-movies|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", HITS
+https://we-play.live/watching/tv/hits|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", HBO HD
+https://we-play.live/watching/tv/hbo-hd|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", HBO HITS
+https://www.we-play.live/watching/tv/hbo-hits|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", HBO SIGNATURE
+https://we-play.live/watching/tv/hbo-signature|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", HBO FAMILY
+https://we-play.live/watching/tv/hbo-family|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", CINEMAX
+https://we-play.live/watching/tv/cinemax|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", HBO HD สำรอง1
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+#EXTINF:-1 group-title="Entertainment", HBO HITS สำรอง1
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="Entertainment", HBO SIGNATURE สำรอง1
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="Entertainment", HBO FAMILY สำรอง1
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="Entertainment", CINEMAXสำรอง1
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 group-title="Entertainment", HBO HD สำรอง2
+https://dl.dropboxusercontent.com/s/cxgr1ongofirbrb/HBO-HD_720p/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment", HBO HITS สำรอง2
+https://dl.dropboxusercontent.com/s/wq46ef68euof6gx/HITS-HD_720p.m3u8
+#EXTINF:-1 group-title="Entertainment", HBO SIGNATURE สำรอง2
+https://dl.dropboxusercontent.com/s/szwuhe8vzf5yyud/SIG-HD_720p.m3u8
+#EXTINF:-1 group-title="Entertainment", HBO FAMILY สำรอง2
+https://dl.dropboxusercontent.com/s/64835cjvpiy9gzc/FAMILY-HD_720p.m3u8
+#EXTINF:-1 group-title="Entertainment", CINEMAX สำรอง2
+https://dl.dropboxusercontent.com/s/nndfo2od0ctfvfh/MAX-HD_720p.m3u8 
+#EXTINF:-1 group-title="Entertainment", TRUE FILM HD1
+https://we-play.live/watching/tv/true-film-hd|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", TRUE FILM HD2
+https://www.doofree88.com/live/film-hd-2|Referer=https://www.doofree88.com/live
+#EXTINF:-1 group-title="Entertainment",  TRUE SERIES  
+https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 group-title="Entertainment", THAI FILM
+https://we-play.live/watching/tv/true-thai-film|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", TRUE MOVIE HITS
+https://we-play.live/watching/tv/true-movie-hits|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", TRUE XZYTE
+https://we-play.live/watching/tv/true-xzyte|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", TRUE CHAINESE MORE
+https://we-play.live/watching/tv/true-chinese-more|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", TRUE ASIAN MORE
+https://we-play.live/watching/tv/true-asian-more|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", TRUE KOREAN MORE
+https://we-play.live/watching/tv/true-korean-more|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", GEM
+https://we-play.live/watching/tv/gem|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", KBS WORLD
+https://we-play.live/watching/tv/kbs-world|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", TVN
+https://we-play.live/watching/tv/tvn|Referer=https://we-play.live
+#EXTINF:-1 group-title="Entertainment", MOVIE WORLD
+http://61.19.242.134/feed/202105171329/LC11/index.m3u8
+#EXTINF:-1 group-title="Entertainment", ZEE NUNG 
+https://www.doofree88.com/live/z-nung|Referer=https://www.doofree88.com 
+#EXTINF:-1 group-title="Entertainment", ZEE NUNG สำรอง
+https://www.movie24h.com/live/z-nung|Referer=https://www.movie24h.com
+#EXTINF:-1 group-title="Entertainment", FWMOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Entertainment", FWSOV
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Entertainment", FWTOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Entertainment", MEDIA TV 
+https://tv.trueid.net/live/MediaTV|Referer=https://tv.trueid.net
+#EXTINF:-1 group-title="Entertainment", TRUE INSIDE TV 
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 group-title="Entertainment", หนังดัง NHANG@ทีวี 
+https://tv.trueid.net/live/ATTV|Referer=https://tv.trueid.net 
+#EXTINF:-1 group-title="Entertainment", CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment", CHANNEL8
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment", M CHANNEL
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment", TVB ไทย
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment", WARNER TV สำรอง
+https://smart-tv.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment", AXN สำรอง
+https://smart-tv.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment", 3BB ASIAN
+http://tv.tvthai.xyz/iptv/3bb.m3u8
+#EXTINF:-1 group-title="Entertainment", TRUE FILMASIA 
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/chunks.m3u8|Referer=https://freetvdd.com 
+#EXTINF:-1 group-title="Entertainment", ฟาร์มทีวี HD
+https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="สารคดี" , HISTORY
+https://we-play.live/watching/tv/history-hd|Referer=https://we-play.live
+#EXTINF:-1 group-title="สารคดี" , H2
+https://we-play.live/watching/tv/history-h2|Referer=https://we-play.live
+#EXTINF:-1 group-title="สารคดี" , DISCOVERY CHANNEL
+https://we-play.live/watching/tv/discovery-channel|Referer=https://we-play.live
+#EXTINF:-1 group-title="สารคดี" , DISCOVERY CHANNEL สำรอง
+http://tv.tvthai.xyz/iptv/discovery.m3u8
+#EXTINF:-1 group-title="สารคดี" , DISCOVERY ASIA
+https://we-play.live/watching/tv/discovery-asia|Referer=https://we-play.live
+#EXTINF:-1 group-title="สารคดี" , LOVENATURE
+https://we-play.live/watching/tv/lovenature-4k|Referer=https://we-play.live
+#EXTINF:-1 group-title="สารคดี" , LOVENATURE เสียงอังกฤษ
+https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="สารคดี" , ANIMAL PLANET
+https://we-play.live/watching/tv/animal-planet|Referer=https://we-play.live
+#EXTINF:-1 group-title="สารคดี" , TLC
+https://we-play.live/watching/tv/tlc-hd|Referer=https://we-play.live
+#EXTINF:-1 group-title="สารคดี" , MYSCI
+https://cdn6.goprimetime.info/feed/202105171329/LC37/index.m3u8
+#EXTINF:-1 group-title="สารคดี" , สำรวจโลก
+https://cdn6.goprimetime.info/feed/202105171329/LC8/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" , MYSCI สำรอง
+http://61.19.242.134/feed/202105171329/LC37/index.m3u8
+#EXTINF:-1 group-title="สารคดี" , สำรวจโลก สำรอง
+http://61.19.242.134/feed/202105171329/LC8/index.m3u8
+#EXTINF:-1 group-title="สารคดี" , PSI SARADEE
+https://61022bdc19cd4.streamlock.net/edgelivepsi/PSIHD.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" , THAI NEWS
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 group-title="สารคดี" , EXPLORE WILD
+https://www.doofree88.com/live/explore-wild|Referer=https://www.doofree88.com 
+#EXTINF:-1 group-title="สารคดี" , EXPLORE SCI
+https://www.doofootball.com/dootv/live/truesci#main_dootv|Referer=https://www.doofootball.com/dootv/live/truesci#main_dootv
+#EXTINF:-1 group-title="สารคดี" , BBC EARTH 
+https://www.doofree88.com/live/bbc-earth|Referer=https://www.doofree88.com
+#EXTINF:-1 group-title="สารคดี" , NATIONAL GEOGRAPHIC
+https://www.doofree88.com/live/national-geographic|Referer=https://www.doofree88.com
+#EXTINF:-1 group-title="สารคดี" , NATIONAL GEOGRAPHIC สำรอง
+https://we-play.live/watching/tv/national-geographic|Referer=https://we-play.live 
+#EXTINF:-1 group-title="สารคดี" , NATGEOWILD เสียงอังกฤษ  
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" , แสงจันทร์  
+https://freelive2.inwstream.com:1936/freelive-edge/sangjun.stream/chunks.m3u8
+#EXTINF:-1 group-title="สารคดี" , CGTN DOCUMENTARY 
+http://210.210.155.35/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
+
+
+#EXTINF:-1, group-title="CARTOON", Nick Jr TH
+https://we-play.live/watching/tv/nickelodeon
+#EXTINF:-1, group-title="CARTOON", ANIPLUS
+https://we-play.live/watching/tv/aniplus
+#EXTINF:-1, group-title="CARTOON", CARTOON NETWORK
+https://we-play.live/watching/tv/cartoon-network
+#EXTINF:-1, group-title="CARTOON", NICKELODEON
+https://we-play.live/watching/tv/nickelodeon
+#EXTINF:-1, group-title="CARTOON", DREAMWORKS
+https://we-play.live/watching/tv/dreamworks
+#EXTINF:-1, group-title="CARTOON", BOOMERANG
+https://www.doofree88.com/live/boomerang|Referer=https://www.doofree88.com
+#EXTINF:-1, group-title="CARTOON", Cartoon Club
+https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1, group-title="CARTOON", TOONEE 
+https://tv.trueid.net/live/TOONEE|Referer=https://tv.trueid.net
+#EXTINF:-1, group-title="CARTOON", ZOOMOO
+http://61.19.242.134/feed/202105171329/LC38/index.m3u8
+#EXTINF:-1, group-title="CARTOON", KETNET JUNOR
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1, group-title="CARTOON", CITV UK
+https://streaming.livescorethai.net/iptv/uk-citv.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1, group-title="CARTOON", JUNIOR
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1, group-title="CARTOON", CARTOONITO
+https://streaming.livescorethai.net/iptv/uk-cartoonito.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1, group-title="CARTOON", ANIMAX
+http://210.210.155.35/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1, group-title="CARTOON", M KIDZ
+http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
+
+
+#EXTINF:-1 group-title="Music", TV KPOP
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8  
+#EXTINF:-1 group-title="Music", COUNTRY NETWORK
+https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TCN-RAD/playlist.m3u8
